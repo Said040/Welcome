@@ -1,11 +1,13 @@
 # Hello, World!
 
-I'm a loving software engineer studying at the University of Illinois Chicago. Love working with C++ but also partial to Swift. Check out what I've been doing!
+I'm a loving software engineer studying at the University of Illinois Chicago. Love working with C++ but also partial to Swift. 
+
+Check out what I've been doing!
 
 | Project  | Description |
 | ------------- | ------------- |
-| GameCollection  | iOS application that allows users to search and add games to a universal library.  |
-| 100 Coding Programs  | Where I upload small programs to keep my mind working  |
+| [GameCollection](https://github.com/Said040/GameCollection)  | iOS application that allows users to search and add games to a universal library.  |
+| [100 Coding Programs](https://github.com/Said040/CodingPractice.cpp)  | Where I upload small programs to keep my mind working  |
 
 <!---
 Said040/Said040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
