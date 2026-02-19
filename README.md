@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm a loving software engineer studying at the University of Illinois Chicago. Love working with C++ but also partial to Swift. 
+I'm a cat-loving software engineer studying at the University of Illinois Chicago. Love working with C++ but also partial to Swift. 
 
 Check out what I've been doing!
 
