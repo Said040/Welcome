@@ -4,7 +4,7 @@ I'm a loving software engineer studying at the University of Illinois Chicago. L
 
 | Project  | Description |
 | ------------- | ------------- |
-| GameCollection  | Content Cell  |
+| GameCollection  | iOS application that allows users to search and add games to a universal library.  |
 | 100 Coding Programs  | Where I upload small programs to keep my mind working  |
 
 <!---
