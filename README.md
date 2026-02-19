@@ -8,6 +8,7 @@ Check out what I've been doing!
 | ------------- | ------------- |
 | [GameCollection](https://github.com/Said040/GameCollection)  | iOS application that allows users to search and add games to a universal library.  |
 | [100 Coding Programs](https://github.com/Said040/CodingPractice.cpp)  | Where I upload small programs to keep my mind working  |
+| [Ciphers](https://github.com/Said040/Ciphers) | School Cipher project where I coded necessary functions  |
 
 <!---
 Said040/Said040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
